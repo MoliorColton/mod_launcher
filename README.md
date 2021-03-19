@@ -2,7 +2,9 @@ Welcome to the Client Extension! This is ESSENTIAL to playing the Molior RS mod,
 
 This program acts as a client plug-in whose purpose is to improve the multi-player
 experience of Neverwinter Nights 2.  It fixes several client crash bugs, and
-adds some useful new features.
+adds some useful new features. this program was created by Skywing, Grinning Fool, Brian Meyer,
+Tero Kivinen, tazpn, KEMO, Obsidian, and Numerous beta testers. Molior RS devs have packaged 
+this program with an installer for people who intend to use this with the Molior RS sever. 
 
 
 Quick Start & Overview
@@ -13,17 +15,17 @@ operate as an independent DM client.  To get started with using the Client
 Extension as a player or a DM, use one of the following methods:
 
 
-(a) Start the game with the included NWLauncher program (recommended).
+(a) Start the game with the included MoliorRS.exe program (recommended).
 
-1)  Run NWLauncher.exe and the game will start with the client extension
-    already active.  You need to keep NWLauncher.exe and ClientExtension.hdl
+1)  Run MoliorRS.exe and the game will start with the client extension
+    already active.  You need to keep MoliorRS.exe and ClientExtension.hdl
     in the same place for the launcher to work correctly.
     
     It is recommended that you use the game in windowed mode to get the most
     out of the client extension.
                 
     You may pass command line arguments to the game by providing them to
-    NWLauncher.exe, e.g. by creating a shortcut.  This is useful for launching
+    MoliorRS.exe, e.g. by creating a shortcut.  This is useful for launching
     the game in DM mode with the -dmc option.  You can also directly connect to
     a game server at startup by using the +connect <server> argument.  See the
     "Features" section for more details on how to create a shortcut to connect
